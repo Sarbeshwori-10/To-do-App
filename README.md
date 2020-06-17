@@ -1,4 +1,4 @@
 # To-do-App
-A usable app with session data and CRUD operation with mvvm.
+A usable app with session data and CRUD operation with mvvm. <br>
 ![](https://im3.ezgif.com/tmp/ezgif-3-64e378b7e767.gif) 
 
