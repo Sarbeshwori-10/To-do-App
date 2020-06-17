@@ -1,2 +1,2 @@
 # To-do-App
-A simple to-do app with the function of add, update, delete, etc.
+A usable app with session data andCRUD operation with mvvm.
